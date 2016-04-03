@@ -1,4 +1,4 @@
-= Neo4j Movies Example Application - The PHP NeoClient Version
+= Neo4j Movies Bolt PHP Example Application
 
 image::https://www.herokucdn.com/deploy/button.png[Deploy to Heroku, link="https://heroku.com/deploy"]
 
