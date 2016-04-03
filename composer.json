@@ -1,0 +1,17 @@
+{
+    "type": "application",
+    "description": "Example app demonstrating usage of GraphAware Neo4j PHP Client",
+    "keywords": ["neo4j","graph","bolt","cypher","php"],
+    "authors": [
+        {"name": "Christophe Willemsen", "email": "christophe@graphaware.com", "homepage": "http://graphaware.com"}
+    ],
+    "require": {
+        "php": ">=5.6",
+        "graphaware/neo4j-php-client": "^4.0@alpha",
+        "silex/silex": "~1.1",
+        "symfony/yaml": "^3.0"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "^70.0"
+    }
+}
